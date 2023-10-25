@@ -159,6 +159,7 @@ input:focus {
     outline: none;
 }
 
+
 .block {
     display: flex;
     justify-content: center;
