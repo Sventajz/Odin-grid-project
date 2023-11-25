@@ -1,2 +1,2 @@
 # Odin-grid-project
-Grid layout excersice for the odin project
+Grid layout exsercise for the odin project
